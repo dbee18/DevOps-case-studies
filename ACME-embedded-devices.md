@@ -64,4 +64,4 @@ You have a hard time attracting and retaining talent. What would you coach the D
 ### Agile Coach
 
 The C-level has proclaimed that ACME needs to be more Agile! Thus the department head has hired you as an agile coach.
-How would you approach this? What process improvements do you suggest? What are the technical enablers for
+How would you approach this? What process improvements do you suggest? What are the technical enablers necessary for these process improvements?
