@@ -30,13 +30,14 @@ The team delivers value to their customers but it grows more difficult every rel
 ## Cases
 
 In this section we describe the different roles that could try to influence the way of working at ACME Software Consultants.
-For each section discuss how to make problems and solutions visible. As well as a (short) prioritized list of things to do/investigate.
+
+Representing each role, discuss how to make problems and solutions visible. As well as a (short) prioritized list of things to do/investigate.
 
 ### Developer
 
 You are a developer at ACME Software Consultants, frustrated with the ever decreasing quality of the software craftsmanship at ACME.
 
-### Consultant
+### External Consultant
 
 Whether you call it an _"Agile Coach"_, _"DevOps Consultant"_ or some other denomination, you have been called upon to provide your assistance to ACME.
 Where and how to start this engagement should be a focus for this discussion.
