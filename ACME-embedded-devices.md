@@ -45,7 +45,8 @@ Contractually they are mandated to support any given version for ten years.
 ACME has a classical IT organization responsible for computers, phones, outlook, cloud and everything in between. Virtual Machines are ordered through a service desk portal.
 Lead time on the machines is everything from hours to days.
 
-The teams are extremely risk averse. The Status Quo is rarely challenged. Trying new things are often met with _"That doesn't work here"_ or _"We've 
+The teams are extremely risk averse. The Status Quo is rarely challenged. Trying new things are often met with _"That doesn't work here"_ or _"We've tried that before"_.
+Focus in on stability over all.
 
 As IOT is becoming a thing, ACME has split out a team with younger developers in a separate building with more fancy furniture, and a more startup feel. The department wants to shield the IOT from all the legacy software and enterprise processes.
 
